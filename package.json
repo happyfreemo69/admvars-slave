@@ -1,0 +1,12 @@
+{
+    "name": "admvars-slave",
+    "version": "1.0.0",
+    "description": "sync from admvars-server",
+    "author": "mpech",
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "private": true,
+    "license": "MIT"
+}
