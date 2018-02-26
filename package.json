@@ -1,12 +1,13 @@
 {
     "name": "admvars-slave",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "sync from admvars-server",
     "author": "mpech",
     "dependencies": {
+        "request": "2.83.0",
+        "request-promise": "4.2.2"
     },
-    "devDependencies": {
-    },
+    "devDependencies": {},
     "private": true,
     "license": "MIT"
 }
