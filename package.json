@@ -4,7 +4,6 @@
     "description": "sync from admvars-server",
     "author": "mpech",
     "dependencies": {
-        "request-promise": "4.2.6"
     },
     "devDependencies": {},
     "private": true,
